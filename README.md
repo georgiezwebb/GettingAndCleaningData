@@ -6,7 +6,7 @@
 2. Unzip the file
 3. Run the script
 
-### To ensure all relevant packages:
+### To ensure all relevant packages are installed in R, run:
 - install.packages("reshape2")
 - install.packages("dplyr")
 - install.packages("readr")
