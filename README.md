@@ -7,6 +7,6 @@
 3. Run the script
 
 ### To ensure all relevant packages:
-install.packages("reshape2")
-install.packages("dplyr")
-install.packages("readr")
+- install.packages("reshape2")
+- install.packages("dplyr")
+- install.packages("readr")
